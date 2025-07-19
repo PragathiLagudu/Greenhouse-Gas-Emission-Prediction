@@ -1,0 +1,1488 @@
+Industry Name,Supply Chain Emission Factors with Margins
+Oilseed farming,0.432
+Oilseed farming,0.002
+Oilseed farming,0.003
+Grain farming,0.704
+Grain farming,0.007
+Grain farming,0.003
+Grain farming,0.004
+Vegetable and melon farming,0.309
+Vegetable and melon farming,0.001
+Vegetable and melon farming,0.003
+Fruit and tree nut farming,0.293
+Fruit and tree nut farming,0.001
+Fruit and tree nut farming,0.002
+"Greenhouse, nursery, and floriculture production",0.401
+"Greenhouse, nursery, and floriculture production",0.001
+"Greenhouse, nursery, and floriculture production",0.0
+"Greenhouse, nursery, and floriculture production",0.002
+Other crop farming,0.355
+Other crop farming,0.002
+Other crop farming,0.003
+Dairy cattle and milk production,0.518
+Dairy cattle and milk production,0.067
+Dairy cattle and milk production,0.001
+Dairy cattle and milk production,0.004
+"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",0.585
+"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",0.077
+"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",0.004
+"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",0.003
+Poultry and egg production,0.758
+Poultry and egg production,0.007
+Poultry and egg production,0.001
+Poultry and egg production,0.005
+"Animal production, except cattle and poultry and eggs",0.261
+"Animal production, except cattle and poultry and eggs",0.033
+"Animal production, except cattle and poultry and eggs",0.002
+Forestry and logging,0.249
+Forestry and logging,0.002
+Forestry and logging,0.0
+"Fishing, hunting and trapping",0.324
+"Fishing, hunting and trapping",0.002
+"Fishing, hunting and trapping",0.0
+Support activities for agriculture and forestry,0.246
+Support activities for agriculture and forestry,0.001
+Support activities for agriculture and forestry,0.0
+Oil and gas extraction,0.398
+Oil and gas extraction,0.015
+Oil and gas extraction,0.0
+Oil and gas extraction,0.005
+Coal mining,0.562
+Coal mining,0.044
+Coal mining,0.0
+Coal mining,0.003
+"Copper, nickel, lead, and zinc mining",1.393
+"Copper, nickel, lead, and zinc mining",0.003
+"Copper, nickel, lead, and zinc mining",0.0
+"Copper, nickel, lead, and zinc mining",0.006
+"Iron, gold, silver, and other metal ore mining",0.886
+"Iron, gold, silver, and other metal ore mining",0.003
+"Iron, gold, silver, and other metal ore mining",0.0
+"Iron, gold, silver, and other metal ore mining",0.01
+Stone mining and quarrying,0.476
+Stone mining and quarrying,0.002
+Stone mining and quarrying,0.0
+Stone mining and quarrying,0.003
+Other nonmetallic mineral mining and quarrying,0.807
+Other nonmetallic mineral mining and quarrying,0.003
+Other nonmetallic mineral mining and quarrying,0.0
+Other nonmetallic mineral mining and quarrying,0.004
+Drilling oil and gas wells,0.215
+Drilling oil and gas wells,0.001
+Drilling oil and gas wells,0.0
+Drilling oil and gas wells,0.003
+Other support activities for mining,0.262
+Other support activities for mining,0.001
+Other support activities for mining,0.0
+Other support activities for mining,0.004
+"Electric power generation, transmission, and distribution",4.828
+"Electric power generation, transmission, and distribution",0.004
+"Electric power generation, transmission, and distribution",0.0
+"Electric power generation, transmission, and distribution",0.016
+Natural gas distribution,0.219
+Natural gas distribution,0.01
+Natural gas distribution,0.0
+Natural gas distribution,0.002
+"Water, sewage and other systems",0.176
+"Water, sewage and other systems",0.047
+"Water, sewage and other systems",0.001
+"Water, sewage and other systems",0.005
+Nonresidential maintenance and repair,0.424
+Nonresidential maintenance and repair,0.001
+Nonresidential maintenance and repair,0.0
+Nonresidential maintenance and repair,0.036
+Residential maintenance and repair,0.355
+Residential maintenance and repair,0.001
+Residential maintenance and repair,0.0
+Residential maintenance and repair,0.041
+Health care structures,0.264
+Health care structures,0.001
+Health care structures,0.0
+Health care structures,0.042
+Manufacturing structures,0.279
+Manufacturing structures,0.001
+Manufacturing structures,0.0
+Manufacturing structures,0.022
+Power and communication structures,0.247
+Power and communication structures,0.001
+Power and communication structures,0.0
+Power and communication structures,0.011
+Educational and vocational structures,0.258
+Educational and vocational structures,0.001
+Educational and vocational structures,0.0
+Educational and vocational structures,0.041
+Office and commercial structures,0.27
+Office and commercial structures,0.001
+Office and commercial structures,0.0
+Office and commercial structures,0.044
+Transportation structures and highways and streets,0.448
+Transportation structures and highways and streets,0.001
+Transportation structures and highways and streets,0.0
+Transportation structures and highways and streets,0.013
+Other nonresidential structures,0.405
+Other nonresidential structures,0.001
+Other nonresidential structures,0.0
+Other nonresidential structures,0.02
+Single-family residential structures,0.233
+Single-family residential structures,0.001
+Single-family residential structures,0.0
+Single-family residential structures,0.012
+Multifamily residential structures,0.127
+Multifamily residential structures,0.0
+Multifamily residential structures,0.007
+Other residential structures,0.348
+Other residential structures,0.001
+Other residential structures,0.0
+Other residential structures,0.024
+Dog and cat food manufacturing,0.456
+Dog and cat food manufacturing,0.007
+Dog and cat food manufacturing,0.001
+Dog and cat food manufacturing,0.01
+Other animal food manufacturing,0.525
+Other animal food manufacturing,0.004
+Other animal food manufacturing,0.001
+Other animal food manufacturing,0.005
+Flour milling and malt manufacturing,0.698
+Flour milling and malt manufacturing,0.004
+Flour milling and malt manufacturing,0.002
+Flour milling and malt manufacturing,0.005
+Wet corn milling,0.733
+Wet corn milling,0.003
+Wet corn milling,0.001
+Wet corn milling,0.005
+Soybean and other oilseed processing,0.311
+Soybean and other oilseed processing,0.001
+Soybean and other oilseed processing,0.004
+Fats and oils refining and blending,0.574
+Fats and oils refining and blending,0.003
+Fats and oils refining and blending,0.001
+Fats and oils refining and blending,0.005
+Breakfast cereal manufacturing,0.489
+Breakfast cereal manufacturing,0.002
+Breakfast cereal manufacturing,0.001
+Breakfast cereal manufacturing,0.01
+Sugar and confectionery product manufacturing,0.563
+Sugar and confectionery product manufacturing,0.003
+Sugar and confectionery product manufacturing,0.0
+Sugar and confectionery product manufacturing,0.008
+Frozen food manufacturing,0.557
+Frozen food manufacturing,0.008
+Frozen food manufacturing,0.001
+Frozen food manufacturing,0.006
+"Fruit and vegetable canning, pickling, and drying",0.376
+"Fruit and vegetable canning, pickling, and drying",0.003
+"Fruit and vegetable canning, pickling, and drying",0.0
+"Fruit and vegetable canning, pickling, and drying",0.048
+Cheese manufacturing,0.505
+Cheese manufacturing,0.04
+Cheese manufacturing,0.001
+Cheese manufacturing,0.006
+"Dry, condensed, and evaporated dairy product manufacturing",0.537
+"Dry, condensed, and evaporated dairy product manufacturing",0.028
+"Dry, condensed, and evaporated dairy product manufacturing",0.001
+"Dry, condensed, and evaporated dairy product manufacturing",0.009
+Fluid milk and butter manufacturing,0.507
+Fluid milk and butter manufacturing,0.036
+Fluid milk and butter manufacturing,0.001
+Fluid milk and butter manufacturing,0.006
+Ice cream and frozen dessert manufacturing,0.455
+Ice cream and frozen dessert manufacturing,0.01
+Ice cream and frozen dessert manufacturing,0.0
+Ice cream and frozen dessert manufacturing,0.015
+Poultry processing,0.617
+Poultry processing,0.006
+Poultry processing,0.001
+Poultry processing,0.005
+"Animal (except poultry) slaughtering, rendering, and processing",0.504
+"Animal (except poultry) slaughtering, rendering, and processing",0.046
+"Animal (except poultry) slaughtering, rendering, and processing",0.002
+"Animal (except poultry) slaughtering, rendering, and processing",0.004
+Seafood product preparation and packaging,0.335
+Seafood product preparation and packaging,0.004
+Seafood product preparation and packaging,0.0
+Bread and bakery product manufacturing,0.405
+Bread and bakery product manufacturing,0.003
+Bread and bakery product manufacturing,0.001
+Bread and bakery product manufacturing,0.007
+"Cookie, cracker, pasta, and tortilla manufacturing",0.49
+"Cookie, cracker, pasta, and tortilla manufacturing",0.004
+"Cookie, cracker, pasta, and tortilla manufacturing",0.001
+"Cookie, cracker, pasta, and tortilla manufacturing",0.01
+Snack food manufacturing,0.43
+Snack food manufacturing,0.002
+Snack food manufacturing,0.001
+Snack food manufacturing,0.009
+Coffee and tea manufacturing,0.347
+Coffee and tea manufacturing,0.002
+Coffee and tea manufacturing,0.0
+Coffee and tea manufacturing,0.005
+Flavoring syrup and concentrate manufacturing,0.35
+Flavoring syrup and concentrate manufacturing,0.002
+Flavoring syrup and concentrate manufacturing,0.0
+Flavoring syrup and concentrate manufacturing,0.004
+Seasoning and dressing manufacturing,0.344
+Seasoning and dressing manufacturing,0.002
+Seasoning and dressing manufacturing,0.0
+Seasoning and dressing manufacturing,0.006
+All other food manufacturing,0.362
+All other food manufacturing,0.004
+All other food manufacturing,0.001
+All other food manufacturing,0.005
+Soft drink and ice manufacturing,0.418
+Soft drink and ice manufacturing,0.001
+Soft drink and ice manufacturing,0.0
+Soft drink and ice manufacturing,0.028
+Breweries,0.398
+Breweries,0.002
+Breweries,0.0
+Breweries,0.012
+Wineries,0.24
+Wineries,0.001
+Wineries,0.0
+Wineries,0.005
+Distilleries,0.233
+Distilleries,0.001
+Distilleries,0.0
+Distilleries,0.003
+Tobacco product manufacturing,0.171
+Tobacco product manufacturing,0.001
+Tobacco product manufacturing,0.0
+Tobacco product manufacturing,0.002
+"Fiber, yarn, and thread mills",0.745
+"Fiber, yarn, and thread mills",0.003
+"Fiber, yarn, and thread mills",0.0
+"Fiber, yarn, and thread mills",0.005
+Fabric mills,0.611
+Fabric mills,0.002
+Fabric mills,0.0
+Fabric mills,0.005
+Textile and fabric finishing and fabric coating mills,0.512
+Textile and fabric finishing and fabric coating mills,0.002
+Textile and fabric finishing and fabric coating mills,0.0
+Textile and fabric finishing and fabric coating mills,0.005
+Carpet and rug mills,0.545
+Carpet and rug mills,0.002
+Carpet and rug mills,0.0
+Carpet and rug mills,0.006
+Curtain and linen mills,0.38
+Curtain and linen mills,0.001
+Curtain and linen mills,0.0
+Curtain and linen mills,0.005
+Other textile product mills,0.401
+Other textile product mills,0.002
+Other textile product mills,0.0
+Other textile product mills,0.005
+Apparel manufacturing,0.175
+Apparel manufacturing,0.001
+Apparel manufacturing,0.0
+Apparel manufacturing,0.002
+Leather and allied product manufacturing,0.226
+Leather and allied product manufacturing,0.004
+Leather and allied product manufacturing,0.0
+Sawmills and wood preservation,0.364
+Sawmills and wood preservation,0.001
+Sawmills and wood preservation,0.0
+Sawmills and wood preservation,0.004
+"Veneer, plywood, and engineered wood product manufacturing",0.428
+"Veneer, plywood, and engineered wood product manufacturing",0.001
+"Veneer, plywood, and engineered wood product manufacturing",0.0
+"Veneer, plywood, and engineered wood product manufacturing",0.005
+Millwork,0.318
+Millwork,0.001
+Millwork,0.0
+Millwork,0.019
+All other wood product manufacturing,0.37
+All other wood product manufacturing,0.001
+All other wood product manufacturing,0.0
+All other wood product manufacturing,0.018
+Pulp mills,0.753
+Pulp mills,0.003
+Pulp mills,0.0
+Pulp mills,0.006
+Paper mills,0.954
+Paper mills,0.003
+Paper mills,0.0
+Paper mills,0.006
+Paperboard mills,1.096
+Paperboard mills,0.003
+Paperboard mills,0.0
+Paperboard mills,0.006
+Paperboard container manufacturing,0.662
+Paperboard container manufacturing,0.002
+Paperboard container manufacturing,0.0
+Paperboard container manufacturing,0.006
+Paper Bag and Coated and Treated Paper Manufacturing,0.674
+Paper Bag and Coated and Treated Paper Manufacturing,0.002
+Paper Bag and Coated and Treated Paper Manufacturing,0.0
+Paper Bag and Coated and Treated Paper Manufacturing,0.007
+Stationery product manufacturing,0.572
+Stationery product manufacturing,0.002
+Stationery product manufacturing,0.0
+Stationery product manufacturing,0.005
+Sanitary paper product manufacturing,0.469
+Sanitary paper product manufacturing,0.001
+Sanitary paper product manufacturing,0.0
+Sanitary paper product manufacturing,0.005
+All other converted paper product manufacturing,0.545
+All other converted paper product manufacturing,0.002
+All other converted paper product manufacturing,0.0
+All other converted paper product manufacturing,0.005
+Printing,0.392
+Printing,0.001
+Printing,0.0
+Printing,0.004
+Support activities for printing,0.205
+Support activities for printing,0.001
+Support activities for printing,0.0
+Support activities for printing,0.003
+Petroleum refineries,0.506
+Petroleum refineries,0.012
+Petroleum refineries,0.0
+Petroleum refineries,0.004
+Asphalt paving mixture and block manufacturing,1.169
+Asphalt paving mixture and block manufacturing,0.005
+Asphalt paving mixture and block manufacturing,0.0
+Asphalt paving mixture and block manufacturing,0.007
+Asphalt shingle and coating materials manufacturing,0.911
+Asphalt shingle and coating materials manufacturing,0.004
+Asphalt shingle and coating materials manufacturing,0.0
+Other petroleum and coal products manufacturing,0.818
+Other petroleum and coal products manufacturing,0.006
+Other petroleum and coal products manufacturing,0.0
+Petrochemical manufacturing,0.796
+Petrochemical manufacturing,0.005
+Petrochemical manufacturing,0.0
+Petrochemical manufacturing,0.004
+Industrial gas manufacturing,1.693
+Industrial gas manufacturing,0.003
+Industrial gas manufacturing,0.0
+Industrial gas manufacturing,0.729
+Synthetic dye and pigment manufacturing,1.605
+Synthetic dye and pigment manufacturing,0.003
+Synthetic dye and pigment manufacturing,0.0
+Synthetic dye and pigment manufacturing,0.007
+Other Basic Inorganic Chemical Manufacturing,0.721
+Other Basic Inorganic Chemical Manufacturing,0.002
+Other Basic Inorganic Chemical Manufacturing,0.0
+Other Basic Inorganic Chemical Manufacturing,0.009
+Other basic organic chemical manufacturing,1.215
+Other basic organic chemical manufacturing,0.005
+Other basic organic chemical manufacturing,0.001
+Other basic organic chemical manufacturing,0.007
+Plastics material and resin manufacturing,1.672
+Plastics material and resin manufacturing,0.004
+Plastics material and resin manufacturing,0.0
+Plastics material and resin manufacturing,0.006
+Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,0.92
+Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,0.003
+Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,0.0
+Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,0.005
+Fertilizer manufacturing,1.009
+Fertilizer manufacturing,0.002
+Fertilizer manufacturing,0.001
+Fertilizer manufacturing,0.004
+Pesticide and other agricultural chemical manufacturing,0.482
+Pesticide and other agricultural chemical manufacturing,0.002
+Pesticide and other agricultural chemical manufacturing,0.0
+Pesticide and other agricultural chemical manufacturing,0.008
+Medicinal and botanical manufacturing,0.485
+Medicinal and botanical manufacturing,0.001
+Medicinal and botanical manufacturing,0.0
+Medicinal and botanical manufacturing,0.003
+Pharmaceutical preparation manufacturing,0.178
+Pharmaceutical preparation manufacturing,0.001
+Pharmaceutical preparation manufacturing,0.0
+Pharmaceutical preparation manufacturing,0.002
+In-vitro diagnostic substance manufacturing,0.158
+In-vitro diagnostic substance manufacturing,0.001
+In-vitro diagnostic substance manufacturing,0.0
+In-vitro diagnostic substance manufacturing,0.007
+Biological product (except diagnostic) manufacturing,0.15
+Biological product (except diagnostic) manufacturing,0.001
+Biological product (except diagnostic) manufacturing,0.0
+Paint and coating manufacturing,0.61
+Paint and coating manufacturing,0.002
+Paint and coating manufacturing,0.0
+Paint and coating manufacturing,0.006
+Adhesive manufacturing,0.653
+Adhesive manufacturing,0.002
+Adhesive manufacturing,0.0
+Adhesive manufacturing,0.014
+Soap and cleaning compound manufacturing,0.537
+Soap and cleaning compound manufacturing,0.002
+Soap and cleaning compound manufacturing,0.0
+Soap and cleaning compound manufacturing,0.013
+Toilet preparation manufacturing,0.317
+Toilet preparation manufacturing,0.002
+Toilet preparation manufacturing,0.0
+Toilet preparation manufacturing,0.007
+Printing ink manufacturing,0.578
+Printing ink manufacturing,0.002
+Printing ink manufacturing,0.0
+Printing ink manufacturing,0.006
+All other chemical product and preparation manufacturing,0.534
+All other chemical product and preparation manufacturing,0.002
+All other chemical product and preparation manufacturing,0.0
+All other chemical product and preparation manufacturing,0.027
+Plastics packaging materials and unlaminated film and sheet manufacturing,0.686
+Plastics packaging materials and unlaminated film and sheet manufacturing,0.002
+Plastics packaging materials and unlaminated film and sheet manufacturing,0.0
+Plastics packaging materials and unlaminated film and sheet manufacturing,0.008
+"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",0.854
+"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",0.002
+"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",0.0
+"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",0.006
+"Laminated plastics plate, sheet (except packaging), and shape manufacturing",0.568
+"Laminated plastics plate, sheet (except packaging), and shape manufacturing",0.001
+"Laminated plastics plate, sheet (except packaging), and shape manufacturing",0.0
+"Laminated plastics plate, sheet (except packaging), and shape manufacturing",0.007
+Polystyrene foam product manufacturing,0.864
+Polystyrene foam product manufacturing,0.002
+Polystyrene foam product manufacturing,0.0
+Polystyrene foam product manufacturing,0.008
+Urethane and other foam product (except polystyrene) manufacturing,0.417
+Urethane and other foam product (except polystyrene) manufacturing,0.001
+Urethane and other foam product (except polystyrene) manufacturing,0.0
+Urethane and other foam product (except polystyrene) manufacturing,0.089
+Plastics bottle manufacturing,0.714
+Plastics bottle manufacturing,0.002
+Plastics bottle manufacturing,0.0
+Plastics bottle manufacturing,0.008
+Other plastics product manufacturing,0.526
+Other plastics product manufacturing,0.002
+Other plastics product manufacturing,0.0
+Other plastics product manufacturing,0.008
+Tire manufacturing,0.553
+Tire manufacturing,0.002
+Tire manufacturing,0.0
+Tire manufacturing,0.006
+Rubber and plastics hoses and belting manufacturing,0.473
+Rubber and plastics hoses and belting manufacturing,0.002
+Rubber and plastics hoses and belting manufacturing,0.0
+Rubber and plastics hoses and belting manufacturing,0.005
+Other rubber product manufacturing,0.4
+Other rubber product manufacturing,0.002
+Other rubber product manufacturing,0.0
+Other rubber product manufacturing,0.007
+Clay product and refractory manufacturing,0.478
+Clay product and refractory manufacturing,0.002
+Clay product and refractory manufacturing,0.0
+Clay product and refractory manufacturing,0.004
+Glass and glass product manufacturing,0.704
+Glass and glass product manufacturing,0.002
+Glass and glass product manufacturing,0.0
+Glass and glass product manufacturing,0.006
+Cement manufacturing,6.832
+Cement manufacturing,0.004
+Cement manufacturing,0.0
+Cement manufacturing,0.005
+Ready-mix concrete manufacturing,1.235
+Ready-mix concrete manufacturing,0.002
+Ready-mix concrete manufacturing,0.0
+Ready-mix concrete manufacturing,0.005
+"Concrete pipe, brick, and block manufacturing",0.565
+"Concrete pipe, brick, and block manufacturing",0.001
+"Concrete pipe, brick, and block manufacturing",0.0
+"Concrete pipe, brick, and block manufacturing",0.004
+Other concrete product manufacturing,0.504
+Other concrete product manufacturing,0.001
+Other concrete product manufacturing,0.0
+Other concrete product manufacturing,0.005
+Lime and gypsum product manufacturing,3.191
+Lime and gypsum product manufacturing,0.004
+Lime and gypsum product manufacturing,0.0
+Lime and gypsum product manufacturing,0.005
+Abrasive product manufacturing,0.261
+Abrasive product manufacturing,0.001
+Abrasive product manufacturing,0.0
+Abrasive product manufacturing,0.003
+Cut stone and stone product manufacturing,0.327
+Cut stone and stone product manufacturing,0.001
+Cut stone and stone product manufacturing,0.0
+Cut stone and stone product manufacturing,0.004
+Ground or treated mineral and earth manufacturing,0.645
+Ground or treated mineral and earth manufacturing,0.002
+Ground or treated mineral and earth manufacturing,0.0
+Ground or treated mineral and earth manufacturing,0.005
+Mineral wool manufacturing,0.623
+Mineral wool manufacturing,0.002
+Mineral wool manufacturing,0.0
+Mineral wool manufacturing,0.006
+Miscellaneous nonmetallic mineral products,0.765
+Miscellaneous nonmetallic mineral products,0.001
+Miscellaneous nonmetallic mineral products,0.0
+Miscellaneous nonmetallic mineral products,0.004
+Iron and steel mills and ferroalloy manufacturing,0.974
+Iron and steel mills and ferroalloy manufacturing,0.004
+Iron and steel mills and ferroalloy manufacturing,0.0
+Iron and steel mills and ferroalloy manufacturing,0.013
+Steel product manufacturing from purchased steel,0.543
+Steel product manufacturing from purchased steel,0.002
+Steel product manufacturing from purchased steel,0.0
+Steel product manufacturing from purchased steel,0.011
+Alumina refining and primary aluminum production,1.441
+Alumina refining and primary aluminum production,0.002
+Alumina refining and primary aluminum production,0.0
+Alumina refining and primary aluminum production,0.471
+Secondary smelting and alloying of aluminum,0.776
+Secondary smelting and alloying of aluminum,0.002
+Secondary smelting and alloying of aluminum,0.0
+Secondary smelting and alloying of aluminum,0.046
+Aluminum product manufacturing from purchased aluminum,0.709
+Aluminum product manufacturing from purchased aluminum,0.002
+Aluminum product manufacturing from purchased aluminum,0.0
+Aluminum product manufacturing from purchased aluminum,0.099
+Nonferrous Metal (except Aluminum) Smelting and Refining,0.667
+Nonferrous Metal (except Aluminum) Smelting and Refining,0.001
+Nonferrous Metal (except Aluminum) Smelting and Refining,0.0
+Nonferrous Metal (except Aluminum) Smelting and Refining,0.031
+"Copper rolling, drawing, extruding and alloying",0.53
+"Copper rolling, drawing, extruding and alloying",0.001
+"Copper rolling, drawing, extruding and alloying",0.0
+"Copper rolling, drawing, extruding and alloying",0.021
+"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",0.468
+"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",0.001
+"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",0.0
+"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",0.039
+Ferrous metal foundries,0.379
+Ferrous metal foundries,0.002
+Ferrous metal foundries,0.0
+Ferrous metal foundries,0.007
+Nonferrous metal foundries,0.37
+Nonferrous metal foundries,0.001
+Nonferrous metal foundries,0.0
+Nonferrous metal foundries,0.061
+Custom roll forming,0.477
+Custom roll forming,0.002
+Custom roll forming,0.0
+Custom roll forming,0.014
+"Metal crown, closure, and other metal stamping (except automotive)",0.405
+"Metal crown, closure, and other metal stamping (except automotive)",0.001
+"Metal crown, closure, and other metal stamping (except automotive)",0.0
+"Metal crown, closure, and other metal stamping (except automotive)",0.013
+"All other forging, stamping, and sintering",0.421
+"All other forging, stamping, and sintering",0.001
+"All other forging, stamping, and sintering",0.0
+"All other forging, stamping, and sintering",0.016
+Cutlery and handtool manufacturing,0.372
+Cutlery and handtool manufacturing,0.001
+Cutlery and handtool manufacturing,0.0
+Cutlery and handtool manufacturing,0.01
+Plate work and fabricated structural product manufacturing,0.416
+Plate work and fabricated structural product manufacturing,0.002
+Plate work and fabricated structural product manufacturing,0.0
+Plate work and fabricated structural product manufacturing,0.008
+Ornamental and architectural metal products manufacturing,0.397
+Ornamental and architectural metal products manufacturing,0.001
+Ornamental and architectural metal products manufacturing,0.0
+Ornamental and architectural metal products manufacturing,0.014
+Power boiler and heat exchanger manufacturing,0.271
+Power boiler and heat exchanger manufacturing,0.001
+Power boiler and heat exchanger manufacturing,0.0
+Power boiler and heat exchanger manufacturing,0.012
+Metal tank (heavy gauge) manufacturing,0.326
+Metal tank (heavy gauge) manufacturing,0.001
+Metal tank (heavy gauge) manufacturing,0.0
+Metal tank (heavy gauge) manufacturing,0.01
+"Metal can, box, and other metal container (light gauge) manufacturing",0.492
+"Metal can, box, and other metal container (light gauge) manufacturing",0.001
+"Metal can, box, and other metal container (light gauge) manufacturing",0.0
+"Metal can, box, and other metal container (light gauge) manufacturing",0.053
+Hardware manufacturing,0.246
+Hardware manufacturing,0.001
+Hardware manufacturing,0.0
+Hardware manufacturing,0.009
+Spring and wire product manufacturing,0.266
+Spring and wire product manufacturing,0.001
+Spring and wire product manufacturing,0.0
+Spring and wire product manufacturing,0.009
+Machine shops,0.311
+Machine shops,0.001
+Machine shops,0.0
+Machine shops,0.008
+"Turned product and screw, nut, and bolt manufacturing",0.383
+"Turned product and screw, nut, and bolt manufacturing",0.002
+"Turned product and screw, nut, and bolt manufacturing",0.0
+"Turned product and screw, nut, and bolt manufacturing",0.008
+"Coating, engraving, heat treating and allied activities",0.496
+"Coating, engraving, heat treating and allied activities",0.002
+"Coating, engraving, heat treating and allied activities",0.0
+"Coating, engraving, heat treating and allied activities",0.008
+Plumbing fixture fitting and trim manufacturing,0.308
+Plumbing fixture fitting and trim manufacturing,0.001
+Plumbing fixture fitting and trim manufacturing,0.0
+Plumbing fixture fitting and trim manufacturing,0.01
+Valve and fittings other than plumbing,0.357
+Valve and fittings other than plumbing,0.002
+Valve and fittings other than plumbing,0.0
+Valve and fittings other than plumbing,0.009
+Ball and roller bearing manufacturing,0.316
+Ball and roller bearing manufacturing,0.001
+Ball and roller bearing manufacturing,0.0
+Ball and roller bearing manufacturing,0.005
+Fabricated pipe and pipe fitting manufacturing,0.449
+Fabricated pipe and pipe fitting manufacturing,0.002
+Fabricated pipe and pipe fitting manufacturing,0.0
+Fabricated pipe and pipe fitting manufacturing,0.008
+Other fabricated metal manufacturing,0.401
+Other fabricated metal manufacturing,0.001
+Other fabricated metal manufacturing,0.0
+Other fabricated metal manufacturing,0.013
+"Ammunition, arms, ordnance, and accessories manufacturing",0.283
+"Ammunition, arms, ordnance, and accessories manufacturing",0.001
+"Ammunition, arms, ordnance, and accessories manufacturing",0.0
+"Ammunition, arms, ordnance, and accessories manufacturing",0.007
+Farm machinery and equipment manufacturing,0.343
+Farm machinery and equipment manufacturing,0.001
+Farm machinery and equipment manufacturing,0.0
+Farm machinery and equipment manufacturing,0.008
+Lawn and garden equipment manufacturing,0.3
+Lawn and garden equipment manufacturing,0.001
+Lawn and garden equipment manufacturing,0.0
+Lawn and garden equipment manufacturing,0.01
+Construction machinery manufacturing,0.312
+Construction machinery manufacturing,0.001
+Construction machinery manufacturing,0.0
+Construction machinery manufacturing,0.008
+Mining and oil and gas field machinery manufacturing,0.332
+Mining and oil and gas field machinery manufacturing,0.001
+Mining and oil and gas field machinery manufacturing,0.0
+Mining and oil and gas field machinery manufacturing,0.008
+Semiconductor machinery manufacturing,0.213
+Semiconductor machinery manufacturing,0.001
+Semiconductor machinery manufacturing,0.0
+Semiconductor machinery manufacturing,0.007
+Other industrial machinery manufacturing,0.221
+Other industrial machinery manufacturing,0.001
+Other industrial machinery manufacturing,0.0
+Other industrial machinery manufacturing,0.006
+Optical instrument and lens manufacturing,0.203
+Optical instrument and lens manufacturing,0.001
+Optical instrument and lens manufacturing,0.0
+Optical instrument and lens manufacturing,0.005
+Photographic and photocopying equipment manufacturing,0.273
+Photographic and photocopying equipment manufacturing,0.001
+Photographic and photocopying equipment manufacturing,0.0
+Photographic and photocopying equipment manufacturing,0.012
+Other commercial and service industry machinery manufacturing,0.375
+Other commercial and service industry machinery manufacturing,0.001
+Other commercial and service industry machinery manufacturing,0.0
+Other commercial and service industry machinery manufacturing,0.032
+Industrial and commercial fan and blower and air purification equipment manufacturing,0.325
+Industrial and commercial fan and blower and air purification equipment manufacturing,0.001
+Industrial and commercial fan and blower and air purification equipment manufacturing,0.0
+Industrial and commercial fan and blower and air purification equipment manufacturing,0.028
+Heating equipment (except warm air furnaces) manufacturing,0.327
+Heating equipment (except warm air furnaces) manufacturing,0.001
+Heating equipment (except warm air furnaces) manufacturing,0.0
+Heating equipment (except warm air furnaces) manufacturing,0.007
+"Air conditioning, refrigeration, and warm air heating equipment manufacturing",0.289
+"Air conditioning, refrigeration, and warm air heating equipment manufacturing",0.001
+"Air conditioning, refrigeration, and warm air heating equipment manufacturing",0.0
+"Air conditioning, refrigeration, and warm air heating equipment manufacturing",0.395
+Industrial mold manufacturing,0.352
+Industrial mold manufacturing,0.001
+Industrial mold manufacturing,0.0
+Industrial mold manufacturing,0.008
+"Special tool, die, jig, and fixture manufacturing",0.234
+"Special tool, die, jig, and fixture manufacturing",0.001
+"Special tool, die, jig, and fixture manufacturing",0.0
+"Special tool, die, jig, and fixture manufacturing",0.006
+Machine tool manufacturing,0.295
+Machine tool manufacturing,0.001
+Machine tool manufacturing,0.0
+Machine tool manufacturing,0.007
+"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",0.293
+"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",0.001
+"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",0.0
+"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",0.007
+Turbine and turbine generator set units manufacturing,0.217
+Turbine and turbine generator set units manufacturing,0.001
+Turbine and turbine generator set units manufacturing,0.0
+Turbine and turbine generator set units manufacturing,0.009
+"Speed changer, industrial high-speed drive, and gear manufacturing",0.25
+"Speed changer, industrial high-speed drive, and gear manufacturing",0.001
+"Speed changer, industrial high-speed drive, and gear manufacturing",0.0
+"Speed changer, industrial high-speed drive, and gear manufacturing",0.007
+Mechanical power transmission equipment manufacturing,0.304
+Mechanical power transmission equipment manufacturing,0.001
+Mechanical power transmission equipment manufacturing,0.0
+Mechanical power transmission equipment manufacturing,0.007
+Other engine equipment manufacturing,0.299
+Other engine equipment manufacturing,0.001
+Other engine equipment manufacturing,0.0
+Other engine equipment manufacturing,0.015
+Air and gas compressor manufacturing,0.267
+Air and gas compressor manufacturing,0.001
+Air and gas compressor manufacturing,0.0
+Air and gas compressor manufacturing,0.009
+Pump and pumping equipment manufacturing,0.241
+Pump and pumping equipment manufacturing,0.001
+Pump and pumping equipment manufacturing,0.0
+Pump and pumping equipment manufacturing,0.009
+Material handling equipment manufacturing,0.339
+Material handling equipment manufacturing,0.001
+Material handling equipment manufacturing,0.0
+Material handling equipment manufacturing,0.008
+Power-driven handtool manufacturing,0.285
+Power-driven handtool manufacturing,0.001
+Power-driven handtool manufacturing,0.0
+Power-driven handtool manufacturing,0.007
+Packaging machinery manufacturing,0.222
+Packaging machinery manufacturing,0.001
+Packaging machinery manufacturing,0.0
+Packaging machinery manufacturing,0.007
+Industrial process furnace and oven manufacturing,0.239
+Industrial process furnace and oven manufacturing,0.001
+Industrial process furnace and oven manufacturing,0.0
+Industrial process furnace and oven manufacturing,0.007
+Other general purpose machinery manufacturing,0.314
+Other general purpose machinery manufacturing,0.001
+Other general purpose machinery manufacturing,0.0
+Other general purpose machinery manufacturing,0.007
+Fluid power process machinery,0.275
+Fluid power process machinery,0.001
+Fluid power process machinery,0.0
+Fluid power process machinery,0.008
+Electronic computer manufacturing,0.074
+Electronic computer manufacturing,0.0
+Electronic computer manufacturing,0.008
+Computer storage device manufacturing,0.131
+Computer storage device manufacturing,0.0
+Computer storage device manufacturing,0.007
+Computer terminals and other computer peripheral equipment manufacturing,0.131
+Computer terminals and other computer peripheral equipment manufacturing,0.0
+Computer terminals and other computer peripheral equipment manufacturing,0.003
+Telephone apparatus manufacturing,0.081
+Telephone apparatus manufacturing,0.0
+Telephone apparatus manufacturing,0.003
+Broadcast and wireless communications equipment,0.091
+Broadcast and wireless communications equipment,0.0
+Broadcast and wireless communications equipment,0.002
+Other communications equipment manufacturing,0.118
+Other communications equipment manufacturing,0.0
+Other communications equipment manufacturing,0.003
+Audio and video equipment manufacturing,0.137
+Audio and video equipment manufacturing,0.001
+Audio and video equipment manufacturing,0.0
+Audio and video equipment manufacturing,0.003
+Semiconductor and related device manufacturing,0.169
+Semiconductor and related device manufacturing,0.001
+Semiconductor and related device manufacturing,0.0
+Semiconductor and related device manufacturing,0.084
+Printed circuit assembly (electronic assembly) manufacturing,0.167
+Printed circuit assembly (electronic assembly) manufacturing,0.001
+Printed circuit assembly (electronic assembly) manufacturing,0.0
+Printed circuit assembly (electronic assembly) manufacturing,0.012
+Other electronic component manufacturing,0.195
+Other electronic component manufacturing,0.001
+Other electronic component manufacturing,0.0
+Other electronic component manufacturing,0.006
+Electromedical and electrotherapeutic apparatus manufacturing,0.092
+Electromedical and electrotherapeutic apparatus manufacturing,0.0
+Electromedical and electrotherapeutic apparatus manufacturing,0.002
+"Search, detection, and navigation instruments manufacturing",0.104
+"Search, detection, and navigation instruments manufacturing",0.001
+"Search, detection, and navigation instruments manufacturing",0.0
+"Search, detection, and navigation instruments manufacturing",0.002
+Automatic environmental control manufacturing,0.175
+Automatic environmental control manufacturing,0.001
+Automatic environmental control manufacturing,0.0
+Automatic environmental control manufacturing,0.003
+Industrial process variable instruments manufacturing,0.17
+Industrial process variable instruments manufacturing,0.001
+Industrial process variable instruments manufacturing,0.0
+Industrial process variable instruments manufacturing,0.003
+Totalizing fluid meter and counting device manufacturing,0.14
+Totalizing fluid meter and counting device manufacturing,0.001
+Totalizing fluid meter and counting device manufacturing,0.0
+Totalizing fluid meter and counting device manufacturing,0.002
+Electricity and signal testing instruments manufacturing,0.135
+Electricity and signal testing instruments manufacturing,0.001
+Electricity and signal testing instruments manufacturing,0.0
+Electricity and signal testing instruments manufacturing,0.002
+Analytical laboratory instrument manufacturing,0.117
+Analytical laboratory instrument manufacturing,0.001
+Analytical laboratory instrument manufacturing,0.0
+Analytical laboratory instrument manufacturing,0.002
+Irradiation apparatus manufacturing,0.165
+Irradiation apparatus manufacturing,0.001
+Irradiation apparatus manufacturing,0.0
+Irradiation apparatus manufacturing,0.003
+"Watch, clock, and other measuring and controlling device manufacturing",0.101
+"Watch, clock, and other measuring and controlling device manufacturing",0.001
+"Watch, clock, and other measuring and controlling device manufacturing",0.0
+"Watch, clock, and other measuring and controlling device manufacturing",0.002
+Manufacturing and reproducing magnetic and optical media,0.207
+Manufacturing and reproducing magnetic and optical media,0.001
+Manufacturing and reproducing magnetic and optical media,0.0
+Manufacturing and reproducing magnetic and optical media,0.002
+Electric lamp bulb and part manufacturing,0.355
+Electric lamp bulb and part manufacturing,0.001
+Electric lamp bulb and part manufacturing,0.0
+Electric lamp bulb and part manufacturing,0.007
+Lighting fixture manufacturing,0.3
+Lighting fixture manufacturing,0.001
+Lighting fixture manufacturing,0.0
+Lighting fixture manufacturing,0.017
+Small electrical appliance manufacturing,0.329
+Small electrical appliance manufacturing,0.001
+Small electrical appliance manufacturing,0.0
+Small electrical appliance manufacturing,0.006
+Household cooking appliance manufacturing,0.327
+Household cooking appliance manufacturing,0.001
+Household cooking appliance manufacturing,0.0
+Household cooking appliance manufacturing,0.01
+Household refrigerator and home freezer manufacturing,0.296
+Household refrigerator and home freezer manufacturing,0.001
+Household refrigerator and home freezer manufacturing,0.0
+Household refrigerator and home freezer manufacturing,0.111
+Household laundry equipment manufacturing,0.379
+Household laundry equipment manufacturing,0.001
+Household laundry equipment manufacturing,0.0
+Household laundry equipment manufacturing,0.009
+Other major household appliance manufacturing,0.31
+Other major household appliance manufacturing,0.001
+Other major household appliance manufacturing,0.0
+Other major household appliance manufacturing,0.006
+"Power, distribution, and specialty transformer manufacturing",0.329
+"Power, distribution, and specialty transformer manufacturing",0.001
+"Power, distribution, and specialty transformer manufacturing",0.0
+"Power, distribution, and specialty transformer manufacturing",0.006
+Motor and generator manufacturing,0.266
+Motor and generator manufacturing,0.001
+Motor and generator manufacturing,0.0
+Motor and generator manufacturing,0.01
+Switchgear and switchboard apparatus manufacturing,0.29
+Switchgear and switchboard apparatus manufacturing,0.001
+Switchgear and switchboard apparatus manufacturing,0.0
+Switchgear and switchboard apparatus manufacturing,0.008
+Relay and industrial control manufacturing,0.197
+Relay and industrial control manufacturing,0.001
+Relay and industrial control manufacturing,0.0
+Relay and industrial control manufacturing,0.005
+Storage battery manufacturing,0.449
+Storage battery manufacturing,0.001
+Storage battery manufacturing,0.0
+Storage battery manufacturing,0.014
+Primary battery manufacturing,0.329
+Primary battery manufacturing,0.001
+Primary battery manufacturing,0.0
+Primary battery manufacturing,0.011
+Communication and energy wire and cable manufacturing,0.44
+Communication and energy wire and cable manufacturing,0.001
+Communication and energy wire and cable manufacturing,0.0
+Communication and energy wire and cable manufacturing,0.013
+Wiring device manufacturing,0.35
+Wiring device manufacturing,0.001
+Wiring device manufacturing,0.0
+Wiring device manufacturing,0.008
+Carbon and graphite product manufacturing,0.417
+Carbon and graphite product manufacturing,0.002
+Carbon and graphite product manufacturing,0.0
+Carbon and graphite product manufacturing,0.005
+All other miscellaneous electrical equipment and component manufacturing,0.21
+All other miscellaneous electrical equipment and component manufacturing,0.001
+All other miscellaneous electrical equipment and component manufacturing,0.0
+All other miscellaneous electrical equipment and component manufacturing,0.008
+Automobile manufacturing,0.299
+Automobile manufacturing,0.001
+Automobile manufacturing,0.0
+Automobile manufacturing,0.02
+Light truck and utility vehicle manufacturing,0.322
+Light truck and utility vehicle manufacturing,0.001
+Light truck and utility vehicle manufacturing,0.0
+Light truck and utility vehicle manufacturing,0.021
+Heavy duty truck manufacturing,0.32
+Heavy duty truck manufacturing,0.001
+Heavy duty truck manufacturing,0.0
+Heavy duty truck manufacturing,0.038
+Motor vehicle body manufacturing,0.304
+Motor vehicle body manufacturing,0.001
+Motor vehicle body manufacturing,0.0
+Motor vehicle body manufacturing,0.013
+Truck trailer manufacturing,0.329
+Truck trailer manufacturing,0.001
+Truck trailer manufacturing,0.0
+Truck trailer manufacturing,0.048
+Motor home manufacturing,0.276
+Motor home manufacturing,0.001
+Motor home manufacturing,0.0
+Motor home manufacturing,0.032
+Travel trailer and camper manufacturing,0.422
+Travel trailer and camper manufacturing,0.002
+Travel trailer and camper manufacturing,0.0
+Travel trailer and camper manufacturing,0.038
+Motor vehicle gasoline engine and engine parts manufacturing,0.359
+Motor vehicle gasoline engine and engine parts manufacturing,0.001
+Motor vehicle gasoline engine and engine parts manufacturing,0.0
+Motor vehicle gasoline engine and engine parts manufacturing,0.012
+Motor vehicle electrical and electronic equipment manufacturing,0.341
+Motor vehicle electrical and electronic equipment manufacturing,0.001
+Motor vehicle electrical and electronic equipment manufacturing,0.0
+Motor vehicle electrical and electronic equipment manufacturing,0.014
+Motor vehicle transmission and power train parts manufacturing,0.4
+Motor vehicle transmission and power train parts manufacturing,0.001
+Motor vehicle transmission and power train parts manufacturing,0.0
+Motor vehicle transmission and power train parts manufacturing,0.012
+Motor vehicle seating and interior trim manufacturing,0.359
+Motor vehicle seating and interior trim manufacturing,0.002
+Motor vehicle seating and interior trim manufacturing,0.0
+Motor vehicle seating and interior trim manufacturing,0.02
+Motor vehicle metal stamping,0.552
+Motor vehicle metal stamping,0.002
+Motor vehicle metal stamping,0.0
+Motor vehicle metal stamping,0.012
+Other Motor Vehicle Parts Manufacturing,0.421
+Other Motor Vehicle Parts Manufacturing,0.001
+Other Motor Vehicle Parts Manufacturing,0.0
+Other Motor Vehicle Parts Manufacturing,0.016
+"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",0.391
+"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",0.001
+"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",0.0
+"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",0.01
+Aircraft manufacturing,0.168
+Aircraft manufacturing,0.001
+Aircraft manufacturing,0.0
+Aircraft manufacturing,0.006
+Aircraft engine and engine parts manufacturing,0.128
+Aircraft engine and engine parts manufacturing,0.001
+Aircraft engine and engine parts manufacturing,0.0
+Aircraft engine and engine parts manufacturing,0.002
+Other aircraft parts and auxiliary equipment manufacturing,0.224
+Other aircraft parts and auxiliary equipment manufacturing,0.001
+Other aircraft parts and auxiliary equipment manufacturing,0.0
+Other aircraft parts and auxiliary equipment manufacturing,0.007
+Guided missile and space vehicle manufacturing,0.166
+Guided missile and space vehicle manufacturing,0.001
+Guided missile and space vehicle manufacturing,0.0
+Guided missile and space vehicle manufacturing,0.005
+Propulsion units and parts for space vehicles and guided missiles,0.171
+Propulsion units and parts for space vehicles and guided missiles,0.001
+Propulsion units and parts for space vehicles and guided missiles,0.0
+Propulsion units and parts for space vehicles and guided missiles,0.003
+Railroad rolling stock manufacturing,0.345
+Railroad rolling stock manufacturing,0.001
+Railroad rolling stock manufacturing,0.0
+Railroad rolling stock manufacturing,0.007
+Ship building and repairing,0.234
+Ship building and repairing,0.001
+Ship building and repairing,0.0
+Ship building and repairing,0.007
+Boat building,0.304
+Boat building,0.001
+Boat building,0.0
+Boat building,0.008
+"Motorcycle, bicycle, and parts manufacturing",0.283
+"Motorcycle, bicycle, and parts manufacturing",0.001
+"Motorcycle, bicycle, and parts manufacturing",0.0
+"Motorcycle, bicycle, and parts manufacturing",0.013
+"Military armored vehicle, tank, and tank component manufacturing",0.351
+"Military armored vehicle, tank, and tank component manufacturing",0.001
+"Military armored vehicle, tank, and tank component manufacturing",0.0
+"Military armored vehicle, tank, and tank component manufacturing",0.014
+All other transportation equipment manufacturing,0.373
+All other transportation equipment manufacturing,0.001
+All other transportation equipment manufacturing,0.0
+All other transportation equipment manufacturing,0.01
+Wood kitchen cabinet and countertop manufacturing,0.301
+Wood kitchen cabinet and countertop manufacturing,0.001
+Wood kitchen cabinet and countertop manufacturing,0.0
+Wood kitchen cabinet and countertop manufacturing,0.005
+Upholstered household furniture manufacturing,0.342
+Upholstered household furniture manufacturing,0.001
+Upholstered household furniture manufacturing,0.0
+Upholstered household furniture manufacturing,0.041
+Nonupholstered wood household furniture manufacturing,0.368
+Nonupholstered wood household furniture manufacturing,0.001
+Nonupholstered wood household furniture manufacturing,0.0
+Nonupholstered wood household furniture manufacturing,0.01
+Institutional furniture manufacturing,0.4
+Institutional furniture manufacturing,0.001
+Institutional furniture manufacturing,0.0
+Institutional furniture manufacturing,0.016
+Other household nonupholstered furniture,0.49
+Other household nonupholstered furniture,0.002
+Other household nonupholstered furniture,0.0
+Other household nonupholstered furniture,0.033
+"Showcase, partition, shelving, and locker manufacturing",0.471
+"Showcase, partition, shelving, and locker manufacturing",0.002
+"Showcase, partition, shelving, and locker manufacturing",0.0
+"Showcase, partition, shelving, and locker manufacturing",0.013
+Office furniture and custom architectural woodwork and millwork manufacturing,0.353
+Office furniture and custom architectural woodwork and millwork manufacturing,0.001
+Office furniture and custom architectural woodwork and millwork manufacturing,0.0
+Office furniture and custom architectural woodwork and millwork manufacturing,0.012
+Other furniture related product manufacturing,0.336
+Other furniture related product manufacturing,0.001
+Other furniture related product manufacturing,0.0
+Other furniture related product manufacturing,0.064
+Surgical and medical instrument manufacturing,0.202
+Surgical and medical instrument manufacturing,0.001
+Surgical and medical instrument manufacturing,0.0
+Surgical and medical instrument manufacturing,0.004
+Surgical appliance and supplies manufacturing,0.207
+Surgical appliance and supplies manufacturing,0.001
+Surgical appliance and supplies manufacturing,0.0
+Surgical appliance and supplies manufacturing,0.005
+Dental equipment and supplies manufacturing,0.254
+Dental equipment and supplies manufacturing,0.001
+Dental equipment and supplies manufacturing,0.0
+Dental equipment and supplies manufacturing,0.008
+Ophthalmic goods manufacturing,0.177
+Ophthalmic goods manufacturing,0.001
+Ophthalmic goods manufacturing,0.0
+Ophthalmic goods manufacturing,0.002
+Dental laboratories,0.17
+Dental laboratories,0.001
+Dental laboratories,0.0
+Dental laboratories,0.005
+Jewelry and silverware manufacturing,0.27
+Jewelry and silverware manufacturing,0.001
+Jewelry and silverware manufacturing,0.0
+Jewelry and silverware manufacturing,0.01
+Sporting and athletic goods manufacturing,0.342
+Sporting and athletic goods manufacturing,0.001
+Sporting and athletic goods manufacturing,0.0
+Sporting and athletic goods manufacturing,0.008
+"Doll, toy, and game manufacturing",0.295
+"Doll, toy, and game manufacturing",0.001
+"Doll, toy, and game manufacturing",0.0
+"Doll, toy, and game manufacturing",0.01
+Office supplies (except paper) manufacturing,0.363
+Office supplies (except paper) manufacturing,0.001
+Office supplies (except paper) manufacturing,0.0
+Office supplies (except paper) manufacturing,0.007
+Sign manufacturing,0.364
+Sign manufacturing,0.001
+Sign manufacturing,0.0
+Sign manufacturing,0.011
+All other miscellaneous manufacturing,0.297
+All other miscellaneous manufacturing,0.001
+All other miscellaneous manufacturing,0.0
+All other miscellaneous manufacturing,0.006
+Customs duties,0.0
+Motor vehicle and motor vehicle parts and supplies,0.166
+Motor vehicle and motor vehicle parts and supplies,0.001
+Motor vehicle and motor vehicle parts and supplies,0.0
+Motor vehicle and motor vehicle parts and supplies,0.004
+Professional and commercial equipment and supplies,0.114
+Professional and commercial equipment and supplies,0.0
+Professional and commercial equipment and supplies,0.003
+Household appliances and electrical and electronic goods,0.144
+Household appliances and electrical and electronic goods,0.0
+Household appliances and electrical and electronic goods,0.003
+"Machinery, equipment, and supplies",0.14
+"Machinery, equipment, and supplies",0.0
+"Machinery, equipment, and supplies",0.005
+Other durable goods merchant wholesalers,0.187
+Other durable goods merchant wholesalers,0.001
+Other durable goods merchant wholesalers,0.0
+Other durable goods merchant wholesalers,0.004
+Drugs and druggists’ sundries,0.159
+Drugs and druggists’ sundries,0.0
+Drugs and druggists’ sundries,0.003
+Grocery and related product wholesalers,0.212
+Grocery and related product wholesalers,0.001
+Grocery and related product wholesalers,0.0
+Grocery and related product wholesalers,0.005
+Petroleum and petroleum products,0.068
+Petroleum and petroleum products,0.0
+Petroleum and petroleum products,0.002
+Other nondurable goods merchant wholesalers,0.172
+Other nondurable goods merchant wholesalers,0.001
+Other nondurable goods merchant wholesalers,0.0
+Other nondurable goods merchant wholesalers,0.004
+Wholesale electronic markets and agents and brokers,0.063
+Wholesale electronic markets and agents and brokers,0.0
+Wholesale electronic markets and agents and brokers,0.001
+Motor vehicle and parts dealers,0.145
+Motor vehicle and parts dealers,0.0
+Motor vehicle and parts dealers,0.002
+Building material and garden equipment and supplies dealers,0.174
+Building material and garden equipment and supplies dealers,0.0
+Building material and garden equipment and supplies dealers,0.002
+Food and beverage stores,0.327
+Food and beverage stores,0.001
+Food and beverage stores,0.0
+Food and beverage stores,0.004
+Health and personal care stores,0.182
+Health and personal care stores,0.0
+Health and personal care stores,0.003
+Gasoline stations,0.341
+Gasoline stations,0.001
+Gasoline stations,0.0
+Gasoline stations,0.005
+Clothing and clothing accessories stores,0.236
+Clothing and clothing accessories stores,0.001
+Clothing and clothing accessories stores,0.0
+Clothing and clothing accessories stores,0.004
+General merchandise stores,0.227
+General merchandise stores,0.001
+General merchandise stores,0.0
+General merchandise stores,0.003
+Nonstore retailers,0.115
+Nonstore retailers,0.0
+Nonstore retailers,0.003
+Air transportation,0.851
+Air transportation,0.003
+Air transportation,0.0
+Air transportation,0.002
+Rail transportation,0.635
+Rail transportation,0.002
+Rail transportation,0.0
+Rail transportation,0.004
+Water transportation,0.494
+Water transportation,0.003
+Water transportation,0.0
+Water transportation,0.048
+Truck transportation,1.341
+Truck transportation,0.003
+Truck transportation,0.0
+Truck transportation,0.021
+Transit and ground passenger transportation,0.127
+Transit and ground passenger transportation,0.001
+Transit and ground passenger transportation,0.0
+Transit and ground passenger transportation,0.007
+Pipeline transportation,1.192
+Pipeline transportation,0.034
+Pipeline transportation,0.0
+Pipeline transportation,0.014
+Scenic and sightseeing transportation and support activities for transportation,0.215
+Scenic and sightseeing transportation and support activities for transportation,0.001
+Scenic and sightseeing transportation and support activities for transportation,0.0
+Scenic and sightseeing transportation and support activities for transportation,0.004
+Postal service,0.187
+Postal service,0.001
+Postal service,0.0
+Postal service,0.003
+Couriers and messengers,0.532
+Couriers and messengers,0.002
+Couriers and messengers,0.0
+Couriers and messengers,0.003
+Warehousing and storage,0.745
+Warehousing and storage,0.002
+Warehousing and storage,0.0
+Warehousing and storage,0.004
+All other retail,0.206
+All other retail,0.001
+All other retail,0.0
+All other retail,0.003
+Newspaper publishers,0.122
+Newspaper publishers,0.0
+Newspaper publishers,0.002
+Periodical Publishers,0.12
+Periodical Publishers,0.0
+Periodical Publishers,0.002
+Book publishers,0.138
+Book publishers,0.001
+Book publishers,0.0
+Book publishers,0.002
+"Directory, mailing list, and other publishers",0.171
+"Directory, mailing list, and other publishers",0.001
+"Directory, mailing list, and other publishers",0.0
+"Directory, mailing list, and other publishers",0.003
+Software publishers,0.062
+Software publishers,0.0
+Software publishers,0.001
+Motion picture and video industries,0.092
+Motion picture and video industries,0.0
+Motion picture and video industries,0.002
+Sound recording industries,0.034
+Sound recording industries,0.0
+Sound recording industries,0.001
+Radio and television broadcasting,0.073
+Radio and television broadcasting,0.0
+Radio and television broadcasting,0.008
+Cable and other subscription programming,0.088
+Cable and other subscription programming,0.0
+Cable and other subscription programming,0.035
+Wired telecommunications carriers,0.091
+Wired telecommunications carriers,0.0
+Wired telecommunications carriers,0.004
+Wireless telecommunications carriers (except satellite),0.127
+Wireless telecommunications carriers (except satellite),0.0
+Wireless telecommunications carriers (except satellite),0.004
+"Satellite, telecommunications resellers, and all other telecommunications",0.129
+"Satellite, telecommunications resellers, and all other telecommunications",0.0
+"Satellite, telecommunications resellers, and all other telecommunications",0.003
+"Data processing, hosting, and related services",0.165
+"Data processing, hosting, and related services",0.001
+"Data processing, hosting, and related services",0.0
+"Data processing, hosting, and related services",0.009
+Internet publishing and broadcasting and Web search portals,0.128
+Internet publishing and broadcasting and Web search portals,0.0
+Internet publishing and broadcasting and Web search portals,0.003
+"News syndicates, libraries, archives and all other information services",0.108
+"News syndicates, libraries, archives and all other information services",0.0
+"News syndicates, libraries, archives and all other information services",0.001
+Nondepository credit intermediation and related activities,0.072
+Nondepository credit intermediation and related activities,0.0
+Nondepository credit intermediation and related activities,0.001
+Other financial investment activities,0.109
+Other financial investment activities,0.0
+Other financial investment activities,0.002
+Securities and commodity contracts intermediation and brokerage,0.074
+Securities and commodity contracts intermediation and brokerage,0.0
+Securities and commodity contracts intermediation and brokerage,0.001
+Direct life insurance carriers,0.027
+Direct life insurance carriers,0.0
+Direct life insurance carriers,0.001
+"Insurance carriers, except direct life",0.041
+"Insurance carriers, except direct life",0.0
+"Insurance carriers, except direct life",0.001
+"Insurance agencies, brokerages, and related activities",0.036
+"Insurance agencies, brokerages, and related activities",0.0
+"Insurance agencies, brokerages, and related activities",0.001
+"Funds, trusts, and other financial vehicles",0.167
+"Funds, trusts, and other financial vehicles",0.001
+"Funds, trusts, and other financial vehicles",0.0
+"Funds, trusts, and other financial vehicles",0.002
+Monetary authorities and depository credit intermediation,0.078
+Monetary authorities and depository credit intermediation,0.0
+Monetary authorities and depository credit intermediation,0.001
+Owner-occupied housing,0.024
+Owner-occupied housing,0.0
+Owner-occupied housing,0.002
+Tenant-occupied housing,0.005
+Tenant-occupied housing,0.0
+Other real estate,0.493
+Other real estate,0.001
+Other real estate,0.0
+Other real estate,0.005
+Automotive equipment rental and leasing,0.246
+Automotive equipment rental and leasing,0.001
+Automotive equipment rental and leasing,0.0
+Automotive equipment rental and leasing,0.003
+Commercial and industrial machinery and equipment rental and leasing,0.15
+Commercial and industrial machinery and equipment rental and leasing,0.001
+Commercial and industrial machinery and equipment rental and leasing,0.0
+Commercial and industrial machinery and equipment rental and leasing,0.009
+General and consumer goods rental,0.147
+General and consumer goods rental,0.001
+General and consumer goods rental,0.0
+General and consumer goods rental,0.002
+Lessors of nonfinancial intangible assets,0.067
+Lessors of nonfinancial intangible assets,0.0
+Lessors of nonfinancial intangible assets,0.001
+Legal services,0.077
+Legal services,0.0
+Legal services,0.002
+"Accounting, tax preparation, bookkeeping, and payroll services",0.061
+"Accounting, tax preparation, bookkeeping, and payroll services",0.0
+"Accounting, tax preparation, bookkeeping, and payroll services",0.001
+"Architectural, engineering, and related services",0.132
+"Architectural, engineering, and related services",0.0
+"Architectural, engineering, and related services",0.003
+Specialized design services,0.096
+Specialized design services,0.0
+Specialized design services,0.002
+Custom computer programming services,0.041
+Custom computer programming services,0.0
+Custom computer programming services,0.001
+Computer systems design services,0.055
+Computer systems design services,0.0
+Computer systems design services,0.009
+"Other computer related services, including facilities management",0.086
+"Other computer related services, including facilities management",0.0
+"Other computer related services, including facilities management",0.002
+Management consulting services,0.078
+Management consulting services,0.0
+Management consulting services,0.002
+Environmental and other technical consulting services,0.071
+Environmental and other technical consulting services,0.0
+Environmental and other technical consulting services,0.002
+Scientific research and development services,0.145
+Scientific research and development services,0.001
+Scientific research and development services,0.0
+Scientific research and development services,0.003
+"Advertising, public relations, and related services",0.104
+"Advertising, public relations, and related services",0.0
+"Advertising, public relations, and related services",0.003
+Photographic services,0.122
+Photographic services,0.0
+Photographic services,0.002
+Veterinary services,0.108
+Veterinary services,0.001
+Veterinary services,0.0
+Veterinary services,0.002
+"All other miscellaneous professional, scientific, and technical services",0.089
+"All other miscellaneous professional, scientific, and technical services",0.0
+"All other miscellaneous professional, scientific, and technical services",0.002
+Management of companies and enterprises,0.144
+Management of companies and enterprises,0.0
+Management of companies and enterprises,0.002
+Office administrative services,0.1
+Office administrative services,0.0
+Office administrative services,0.002
+Facilities support services,0.246
+Facilities support services,0.001
+Facilities support services,0.0
+Facilities support services,0.004
+Employment services,0.039
+Employment services,0.0
+Employment services,0.001
+Business support services,0.124
+Business support services,0.001
+Business support services,0.0
+Business support services,0.002
+Travel arrangement and reservation services,0.105
+Travel arrangement and reservation services,0.0
+Travel arrangement and reservation services,0.003
+Investigation and security services,0.092
+Investigation and security services,0.0
+Investigation and security services,0.002
+Services to buildings and dwellings,0.16
+Services to buildings and dwellings,0.001
+Services to buildings and dwellings,0.0
+Services to buildings and dwellings,0.015
+Other support services,0.135
+Other support services,0.001
+Other support services,0.0
+Other support services,0.005
+Waste management and remediation services,0.312
+Waste management and remediation services,0.059
+Waste management and remediation services,0.0
+Waste management and remediation services,0.016
+Elementary and secondary schools,0.158
+Elementary and secondary schools,0.001
+Elementary and secondary schools,0.0
+Elementary and secondary schools,0.003
+"Junior colleges, colleges, universities, and professional schools",0.218
+"Junior colleges, colleges, universities, and professional schools",0.001
+"Junior colleges, colleges, universities, and professional schools",0.0
+"Junior colleges, colleges, universities, and professional schools",0.003
+Other educational services,0.147
+Other educational services,0.001
+Other educational services,0.0
+Other educational services,0.003
+Offices of physicians,0.086
+Offices of physicians,0.0
+Offices of physicians,0.003
+Offices of dentists,0.113
+Offices of dentists,0.0
+Offices of dentists,0.003
+Offices of other health practitioners,0.116
+Offices of other health practitioners,0.0
+Offices of other health practitioners,0.003
+Outpatient care centers,0.137
+Outpatient care centers,0.001
+Outpatient care centers,0.0
+Outpatient care centers,0.003
+Medical and diagnostic laboratories,0.104
+Medical and diagnostic laboratories,0.0
+Medical and diagnostic laboratories,0.003
+Home health care services,0.096
+Home health care services,0.0
+Home health care services,0.003
+Other ambulatory health care services,0.18
+Other ambulatory health care services,0.001
+Other ambulatory health care services,0.0
+Other ambulatory health care services,0.007
+Hospitals,0.156
+Hospitals,0.001
+Hospitals,0.0
+Hospitals,0.004
+Nursing and community care facilities,0.173
+Nursing and community care facilities,0.001
+Nursing and community care facilities,0.0
+Nursing and community care facilities,0.004
+"Residential mental health, substance abuse, and other residential care facilities",0.168
+"Residential mental health, substance abuse, and other residential care facilities",0.002
+"Residential mental health, substance abuse, and other residential care facilities",0.0
+"Residential mental health, substance abuse, and other residential care facilities",0.008
+Individual and family services,0.161
+Individual and family services,0.001
+Individual and family services,0.0
+Individual and family services,0.004
+Child day care services,0.174
+Child day care services,0.002
+Child day care services,0.0
+Child day care services,0.004
+"Community food, housing, and other relief services, including rehabilitation services",0.247
+"Community food, housing, and other relief services, including rehabilitation services",0.003
+"Community food, housing, and other relief services, including rehabilitation services",0.0
+"Community food, housing, and other relief services, including rehabilitation services",0.008
+Performing arts companies,0.095
+Performing arts companies,0.0
+Performing arts companies,0.002
+Spectator sports,0.072
+Spectator sports,0.0
+Spectator sports,0.002
+"Independent artists, writers, and performers",0.016
+"Independent artists, writers, and performers",0.0
+Promoters of performing arts and sports and agents for public figures,0.11
+Promoters of performing arts and sports and agents for public figures,0.001
+Promoters of performing arts and sports and agents for public figures,0.0
+Promoters of performing arts and sports and agents for public figures,0.002
+"Museums, historical sites, zoos, and parks",0.196
+"Museums, historical sites, zoos, and parks",0.001
+"Museums, historical sites, zoos, and parks",0.0
+"Museums, historical sites, zoos, and parks",0.003
+Amusement parks and arcades,0.161
+Amusement parks and arcades,0.001
+Amusement parks and arcades,0.0
+Amusement parks and arcades,0.003
+Gambling industries (except casino hotels),0.102
+Gambling industries (except casino hotels),0.001
+Gambling industries (except casino hotels),0.0
+Gambling industries (except casino hotels),0.004
+Other amusement and recreation industries,0.294
+Other amusement and recreation industries,0.002
+Other amusement and recreation industries,0.0
+Other amusement and recreation industries,0.005
+Accommodation,0.219
+Accommodation,0.001
+Accommodation,0.0
+Accommodation,0.003
+Full-service restaurants,0.257
+Full-service restaurants,0.002
+Full-service restaurants,0.0
+Full-service restaurants,0.005
+Limited-service restaurants,0.384
+Limited-service restaurants,0.002
+Limited-service restaurants,0.0
+Limited-service restaurants,0.01
+All other food and drinking places,0.151
+All other food and drinking places,0.001
+All other food and drinking places,0.0
+All other food and drinking places,0.004
+Automotive repair and maintenance,0.163
+Automotive repair and maintenance,0.001
+Automotive repair and maintenance,0.0
+Automotive repair and maintenance,0.004
+Electronic and precision equipment repair and maintenance,0.102
+Electronic and precision equipment repair and maintenance,0.0
+Electronic and precision equipment repair and maintenance,0.008
+Commercial and industrial machinery and equipment repair and maintenance,0.15
+Commercial and industrial machinery and equipment repair and maintenance,0.001
+Commercial and industrial machinery and equipment repair and maintenance,0.0
+Commercial and industrial machinery and equipment repair and maintenance,0.033
+Personal and household goods repair and maintenance,0.074
+Personal and household goods repair and maintenance,0.0
+Personal and household goods repair and maintenance,0.003
+Personal care services,0.148
+Personal care services,0.0
+Personal care services,0.002
+Death care services,0.04
+Death care services,0.0
+Death care services,0.001
+Dry-cleaning and laundry services,0.203
+Dry-cleaning and laundry services,0.001
+Dry-cleaning and laundry services,0.0
+Dry-cleaning and laundry services,0.003
+Other personal services,0.109
+Other personal services,0.0
+Other personal services,0.002
+Religious organizations,0.254
+Religious organizations,0.001
+Religious organizations,0.0
+Religious organizations,0.004
+"Grantmaking, giving, and social advocacy organizations",0.086
+"Grantmaking, giving, and social advocacy organizations",0.0
+"Grantmaking, giving, and social advocacy organizations",0.001
+"Civic, social, professional, and similar organizations",0.151
+"Civic, social, professional, and similar organizations",0.001
+"Civic, social, professional, and similar organizations",0.0
+"Civic, social, professional, and similar organizations",0.008
+Private households,0.0
